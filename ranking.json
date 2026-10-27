@@ -1,0 +1,39 @@
+
+[
+    {
+      "proposal": "A",
+      "rank": 1,
+      "status": "ranked",
+      "score": 98,
+      "reason": "Good experience, low price, 12 weeks timeline, and strong team and safety plan."
+    },
+    {
+      "proposal": "B",
+      "rank": null,
+      "status": "flagged",
+      "score": null,
+      "reason": "Electrical contractor licence is not confirmed and will be arranged after award."
+    },
+    {
+      "proposal": "C",
+      "rank": 4,
+      "status": "ranked",
+      "score": 78,
+      "reason": "Good experience and warranty, but price is high and safety details are missing."
+    },
+    {
+      "proposal": "D",
+      "rank": 2,
+      "status": "ranked",
+      "score": 85,
+      "reason": "Good experience, reasonable price, and safety plan, but timeline is not confirmed."
+    },
+    {
+      "proposal": "E",
+      "rank": 3,
+      "status": "ranked",
+      "score": 83,
+      "reason": "Good experience, long warranty, and monitoring plan, but price and timeline are higher."
+    }
+  ]
+  
